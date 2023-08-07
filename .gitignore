@@ -60,7 +60,7 @@ cover/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-C:\Users\User\Desktop\Git Hub-Repos\Proyect-Ecommerce-Django\Proyect-Ecommerce\Proyectecommerce\Proyectecommerce\settings.py
+*settings.py
 
 
 # Flask stuff:
